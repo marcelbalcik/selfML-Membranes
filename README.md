@@ -1,4 +1,5 @@
 # selfML-Membranes
-Quick and easy gas separation membrane property predictor for research labs to test and try
+This project provides a modular, extensible machine learning pipeline to predict gas permeabilities of polymer membranes based on structural, processing, and molecular fingerprint features. It is designed to enable research labs to evaluate predictive models using their own curated datasets. If you find the available ML papers in the field to have flaws, that is usually due to the data. Before starting, you should have membrane physical and gas permeability data.
 
-Kind of a placeholder until the work is published. The idea is to have a simple code that tries different ML algorithms for a lab to try and see if it is useful for their own data.
+
+Kind of a placeholder until the work is published. 
