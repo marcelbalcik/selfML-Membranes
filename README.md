@@ -1,3 +1,4 @@
+THIS PROJECT IS NOT COMPLETED. THE FILES ARE MERELY PLACEHOLDERS.
 
 This project provides a modular Python toolkit for predicting gas permeabilities in polymer membranes using machine learning. It's designed with flexibility in mind, so individual labs can test and validate models on their own curated datasets. The goal is to provide both traditional machine learning and deep learning baselines, with optional hyperparameter optimization.
 
