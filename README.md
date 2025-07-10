@@ -1,4 +1,6 @@
 
+THIS PROJECT IS NOT COOKED YET. THE FILES ARE JUST AS PLACEHOLDERS.
+
 This project provides a modular Python toolkit for predicting gas permeabilities in polymer membranes using machine learning. It's designed with flexibility in mind, so individual labs can test and validate models on their own curated datasets. The goal is to provide both traditional machine learning and deep learning baselines, with optional hyperparameter optimization.
 
 The input is expected to be a `.csv` file with the following columns:
@@ -21,7 +23,7 @@ If SMILES is missing, the script will exit with an error. Other metadata columns
 This tool can:
 
 - Generate molecular fingerprints using RDKit (Morgan, MACCS, Topological).
-- Use all three fingerprints together for a richer descriptor.
+- Use all three fingerprints together for a more complex descriptor.
 - Run scikit-learn regressors with support for multi-output prediction.
 - Train feedforward deep learning models using PyTorch.
 - Perform 5-fold cross-validation.
