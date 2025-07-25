@@ -1,5 +1,5 @@
 
-THIS PROJECT IS NOT COOKED YET. THE FILES ARE JUST AS PLACEHOLDERS.
+THIS PROJECT IS NOT COOKED YET. THE FILES ARE JUST AS PLACEHOLDERS. The final codes shall be shared once the work is published, even as a preprint.
 
 This project provides a modular Python toolkit for predicting gas permeabilities in polymer membranes using machine learning. It's designed with flexibility in mind, so individual labs can test and validate models on their own curated datasets. The goal is to provide both traditional machine learning and deep learning baselines, with optional hyperparameter optimization.
 
