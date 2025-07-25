@@ -18,7 +18,7 @@ The input is expected to be a `.csv` file with the following columns:
 
 You can put in as many gases as you like.
 
-If SMILES is missing, the script will exit with an error. Other metadata columns will default to reasonable values if left empty. Permeability values will be imputed using the mean from the available data. In near future I hope to implement a wiser approach.
+If SMILES is missing, the script will exit with an error. Other metadata columns will default to reasonable values if left empty. Permeability values will be imputed using the mean from the available data. In near future I hope to implement a wiser approach. Probably via Yuan et al, JMS, 2021.
 
 This tool can:
 
