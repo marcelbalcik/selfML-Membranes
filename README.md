@@ -40,9 +40,9 @@ To skip Bayesian optimization, just use `--optimize none`.
 
 ## Notes
 
-GNN support is not yet implemented, but a placeholder is in place if you want to extend this toolkit using DeepChem or PyTorch Geometric.
+GNN support is not yet implemented, but a placeholder is in place if you want to extend this toolkit. Early trials suggested no meaningful gain on my end.
 
-This is intended to be used as a flexible testing environment. It's not a finalized predictive model but rather a scaffold to help you explore how different descriptors and algorithms perform on your membrane datasets.
+
 See `requirements.txt` for more details.
 
 ---
